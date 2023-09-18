@@ -1,5 +1,5 @@
 
-# Created a Lip Synced video with the help of the video and audio File
+# Created a Lip Synced video with the help of the video and audio File.
 
 1 . Check this Input Video File - https://www.youtube.com/watch?v=YMuuEv37s0o
 
