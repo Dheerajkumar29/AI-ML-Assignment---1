@@ -5,6 +5,8 @@
 
 2. Check this Input Audio File  - https://drive.google.com/file/d/1jhUOAeGw8lPjNf7Q1cIcBOvzE3CJ3gVz/view
 
+3. Open the Copy_of_wav2Lip_simplified_v5.ipynb File in Google Collab.
+
 
 
 
