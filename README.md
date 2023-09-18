@@ -1,3 +1,11 @@
-# AI-ML-Assignment---1
-Open google collab for More information
-This repository will help you Lip Sync to any video file to audio file.
+
+# Created a Lip Synced video with the help of the video and audio File
+
+
+
+
+## Demo
+
+Insert gif or link to demo
+
+https://ezgif.com/video-to-gif/ezgif-2-a904e5757c.mp4
